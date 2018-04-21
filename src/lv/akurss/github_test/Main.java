@@ -8,6 +8,8 @@ public class Main {
 
         System.out.printf("Hello %s", newPerson.getName());
 
+        System.out.println("Hello");
+
     }
 
 }
